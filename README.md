@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance php and kotlin<br>👯 I’m looking to collaborate on good team <br>🤝 I’m looking for help with found an professional team looking to make the world a better place<br>🌱 I’m currently learning react<br>💬 Ask me about jetpack compose, laravel, kotlin, php and boot spring
+🔭 I’m currently working on freelance javascript and kotlin<br>👯 I’m looking to collaborate on good team <br>🤝 I’m looking for help with found an professional team looking to make the world a better place<br>🌱 I’m currently learning react<br>💬 Ask me about jetpack compose, react, next.js, kotlin, express.js and boot spring
 
 
 ## 🌐 Socials:
